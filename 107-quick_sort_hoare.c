@@ -1,7 +1,3 @@
-/*
- * File: 107-quick_sort_hoare.c
- */
-
 #include "sort.h"
 
 void swap_ints(int *a, int *b);
