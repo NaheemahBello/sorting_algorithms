@@ -8,7 +8,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
-All of the following programs are written in C:
+AAll of the following programs are written in C:
 
 | Filename | Description |
 | -------- | ----------- |
